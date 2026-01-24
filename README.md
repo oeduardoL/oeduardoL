@@ -1,8 +1,8 @@
-## Oláá, tudo bom? Me chamo Eduardo Lopes
+## Oláá, tudo bom? Me chamo Eduardo.
 
-- Estudante de Análise e Desenvolvimento de Sistemas na UniOpet
-- Segundo período
-- 18 anos
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Segundo período.
+- 18 anos.
 
 
 <div style="display: inline_block"><br>
